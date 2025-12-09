@@ -1,0 +1,5 @@
+{
+  "name": "Trình tạo ảnh thời trang AI",
+  "description": "Một ứng dụng web sử dụng AI để tạo và chỉnh sửa hình ảnh thời trang, bao gồm bóc tách trang phục, tạo người mẫu ảo và thay đổi bối cảnh sản phẩm.",
+  "requestFramePermissions": []
+}
